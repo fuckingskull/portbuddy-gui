@@ -1,6 +1,4 @@
 # PortBuddy GUI by Quack
-<br>
-<br>
 <img src="https://files.catbox.moe/ftp6nt.png" alt="The sexiest UI design ever.">
 <br>
 <br>
